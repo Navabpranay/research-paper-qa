@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/papers/
+chroma_db/
+.DS_Store
+*.csv
+paper_summaries.json
+evaluation_log.csv
+test_imports.py
