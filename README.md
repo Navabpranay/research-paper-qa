@@ -115,20 +115,35 @@ research-paper-qa/
 ├── src/
 
 │   ├── fetcher.py        # ArXiv paper search and download
+
 │   ├── processor.py      # PDF text extraction and chunking
+
 │   ├── embedder.py       # Embedding generation + ChromaDB
+
 │   ├── retriever.py      # Semantic similarity search
+
 │   ├── generator.py      # LLM answer generation
+
 │   ├── evaluator.py      # Interaction logging and evaluation
+
 │   ├── summarizer.py     # Auto paper summarization
+
 │   ├── memory.py         # Conversation history management
+
 │   └── exporter.py       # Export answers as txt/pdf
+
 ├── data/
+
 │   └── papers/           # Downloaded PDFs stored here
+
 ├── app.py                # Streamlit web interface
+
 ├── main.py               # Command line interface
+
 ├── requirements.txt
+
 ├── .env                  # API keys (not committed)
+
 └── README.md
 
 ---
