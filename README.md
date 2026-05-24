@@ -86,7 +86,7 @@ source count, and citation accuracy for quality monitoring.
 ## 🚀 Setup
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/research-paper-qa.git
+git clone https://github.com/Navabpranay/research-paper-qa.git
 cd research-paper-qa
 
 ### 2. Create conda environment
@@ -165,8 +165,8 @@ Results are saved to evaluation_log.csv with:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | 
-[GitHub](https://github.com/yourusername)
+**Pranay Goud Nawab**  
+[LinkedIn](https://linkedin.com/in/pranaygoudnawab) | 
+[GitHub](https://github.com/Navabpranay)
 
 Built as part of AI/ML portfolio development.
