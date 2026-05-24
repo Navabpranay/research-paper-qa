@@ -111,7 +111,9 @@ streamlit run app.py
 ## 📁 Project Structure
 
 research-paper-qa/
+
 ├── src/
+
 │   ├── fetcher.py        # ArXiv paper search and download
 │   ├── processor.py      # PDF text extraction and chunking
 │   ├── embedder.py       # Embedding generation + ChromaDB
