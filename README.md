@@ -1,5 +1,5 @@
 # 📚 AI Research Paper Summarizer & Q&A
-![App Screenshot](screenshot.png)
+![App Screenshot](dem_1.jpg)
 
 An intelligent research assistant that fetches academic papers 
 from ArXiv, indexes them using RAG (Retrieval-Augmented Generation), 
